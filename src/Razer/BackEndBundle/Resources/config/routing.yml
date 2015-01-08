@@ -1,0 +1,3 @@
+razer_back_end_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: RazerBackEndBundle:Default:index }
